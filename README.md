@@ -20,6 +20,6 @@ A Python tool to discover hidden web paths by brute-forcing directories and endp
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/web-path-scanner.git
+git clone https://github.com/Sahilumar94/web-path-scanner.git
 cd web-path-scanner
 pip install -r requirements.txt
